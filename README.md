@@ -27,7 +27,7 @@ B: begin (beginning of the entity)<br>
 I: inside (middle of the entity)<br>
 O: outside of named entities (e.g. label O in BC5DR-chem dataset means token isn't a chemical; is equivalent to O-Chemical tag written in the format &lt;B/I/O&gt;-&lt;Entity&gt;)
 
-Sources: <i>B. Overview of Experimental Setup</i> of <a href="https://arxiv.org/pdf/2011.06315v1.pdf">article</a>, [HuggingFace BigBio/Blurb](https://huggingface.co/datasets/bigbio/blurb).
+Source: [HuggingFace BigBio/Blurb](https://huggingface.co/datasets/bigbio/blurb)
 
 ### Navigating the Repo
 Our code is organized into the following folders:
